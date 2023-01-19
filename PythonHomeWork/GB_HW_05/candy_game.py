@@ -70,3 +70,5 @@ def bot_turn():
         player_1_turn()
     else:
         print('Бот победил!')
+
+start_game()
